@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">GitLabBranchTest</string>
+    <string name="some_text">Some String</string>
 </resources>
